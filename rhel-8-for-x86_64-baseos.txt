@@ -1,0 +1,14 @@
+basesystem
+cockpit
+dnf(yum)
+fwupdate(signing keys?)
+grub2
+kernel
+libreport
+NetworkManager(?onnectivity.conf)
+redhat-indexhtml
+redhat-logos
+redhat-release
+shim
+subscription-manager(gui)	
+
